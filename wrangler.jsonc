@@ -1,0 +1,11 @@
+{
+  "name": "b2ksoft-site",
+  "pages_build_output_dir": "./",
+  "compatibility_date": "2025-02-04",
+  "kv_namespaces": [
+    {
+      "binding": "B2K_KV",
+      "id": "981316689700495aa8e4d2e698f0965f"
+    }
+  ]
+}

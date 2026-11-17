@@ -1,0 +1,15 @@
+{
+  "name": "b2ksoft-site",
+  "main": "src/worker.js",
+  "compatibility_date": "2025-02-04",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "B2K_KV",
+      "id": "981316689700495aa8e4d2e698f0965f"
+    }
+  ]
+}
